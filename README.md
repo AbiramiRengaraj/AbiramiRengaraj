@@ -32,7 +32,7 @@ To become a skilled **Data Analyst** who can not only analyze data but also buil
 ### 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/abiramirengaraj/)  
-- 📧 Email: abirami.rengaraj2002@email.com
+- 📧 Email: abhirami.rengaraj2002@gmail.com
 
 ---
 
