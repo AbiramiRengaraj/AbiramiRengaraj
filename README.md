@@ -6,10 +6,11 @@ I'm a passionate **Data Analyst** who is always curious about how to extract val
 
 ### 💡 What I Know
 
-- 📊 **Tools & Languages**: Excel, SQL, Power BI, Python  
+- 📊 **Tools & Languages**: Excel, SQL, Power BI, Python ,C++, Matlab, OMnet++, git
 - 📚 **Libraries**: pandas, scikit-learn, matplotlib, seaborn  
 - 🤖 **Machine Learning**: TensorFlow, scikit-learn  
 - 📈 **Analytics Skills**: Data cleaning,  visualization, reporting
+                    
 
 ---
 
