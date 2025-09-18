@@ -8,7 +8,7 @@ I enjoy exploring complex datasets, building predictive models, and turning data
 
 ### 💡 What I Know
 
-- 📊 **Tools & Languages**: Excel, SQL, Power BI, Python ,C++, Matlab, OMnet++, git
+- 📊 **Tools & Languages**: Excel, SQL, Power BI, Python ,C++,C#, Matlab, OMnet++, git
 - 📚 **Libraries**: pandas, scikit-learn, matplotlib, seaborn ,heatmap, numpy , pandas
 - 🤖 **Machine Learning**: TensorFlow, scikit-learn  
 - 📈 **Analytics Skills**: Data cleaning,  visualization, reporting, exploratory data analysis(EDA)
