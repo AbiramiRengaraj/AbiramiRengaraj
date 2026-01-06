@@ -1,31 +1,39 @@
 ## 👋 Hi there, I'm Abirami Rengaraj
 
-Master’s student in Computer Systems and Networks with strong foundations in networking and protocol design, complemented by hands-on experience in AI, cloud, and cybersecurity. Gained practical exposure through internships and thesis work, applying the latest technologies in machine learning, data analytics, and security. Driven by curiosity and continuous learning, I aim to build impactful solutions across software development, networking, data, AI, cloud, and security, bringing together core engineering skills with the latest technological advancements.
-
-I enjoy exploring complex datasets, building predictive models, and turning data into meaningful insights. With a solid foundation in statistics, secure systems, and analytical thinking.
+Junior Network & Security Engineer with a Master’s in Computer Systems and Cybersecurity. 
+Interested in network security, SOC operations, and traffic/log analysis. 
+Hands-on experience with network security labs, intrusion detection, and encrypted traffic analysis.
+Exploring Python-based security analysis and automation, with a growing interest in AI-assisted security.
 
 ---
 
 ### 💡 What I Know
 
-- 📊 **Tools & Languages**: Excel, SQL, Power BI, Python ,C++,C#, Matlab, OMnet++, git
-- 📚 **Libraries**: pandas, scikit-learn, matplotlib, seaborn ,heatmap, numpy , pandas
-- 🤖 **Machine Learning**: TensorFlow, scikit-learn  
-- 📈 **Analytics Skills**: Data cleaning,  visualization, reporting, exploratory data analysis(EDA)
-- 🌐 **Networking**: TCP/IP, protocol design, packet core concepts, simulation with OMNeT++
-- ☁️ **Cloud & DevOps**: AWS EC2, Docker, Kubernetes
+### 🔧 Skills & Interests
+
+**Networking & Systems:** TCP/IP, Linux, packet core fundamentals, network protocols  
+
+**Security Tools:** Wireshark, Nmap, Burp Suite, Kali Linux  
+
+**Security Analysis:** traffic analysis, log analysis, intrusion detection, alert investigation  
+
+**Security Concepts:** cryptographic hashing, encryption, secure communication protocols  
+
+**Programming:** Python, C++, Java, SQL, C  
+
+**Data & ML:** Pandas, NumPy, Matplotlib, Seaborn, supervised & unsupervised learning, model evaluation  
+
+**DevOps & Tools:** Git, GitHub/GitLab CI, Docker, Kubernetes (exposure)
+
                     
 
 ---
 
 ### 🚀 What I'm Learning
 
-I'm continuously sharpening my skills in:
+- Exploring the TryHackMe learning paths to strengthen SOC and network security fundamentals.  
+- Preparing for the CompTIA Security+ certification and gaining hands-on exposure to SIEM tools and security monitoring concepts.
 
-- 📌 Emerging technologies in data analytics and machine learning , cloud technologies
-- 🔐 Data security and privacy in analytical workflows  
-- 🛠️ Tools like Power BI, Excel, and Jupyter Notebook
----
 
 ### 📫 Let's Connect
 
