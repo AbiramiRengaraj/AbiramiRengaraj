@@ -11,19 +11,19 @@ Exploring Python-based security analysis and automation, with a growing interest
 
 ### 🔧 Skills & Interests
 
-**Networking & Systems:** TCP/IP, Linux, packet core fundamentals, network protocols  
+- **Networking & Systems:** TCP/IP, Linux, packet core fundamentals, network protocols  
 
-**Security Tools:** Wireshark, Nmap, Burp Suite, Kali Linux  
+- **Security Tools:** Wireshark, Nmap, Burp Suite, Kali Linux  
 
-**Security Analysis:** traffic analysis, log analysis, intrusion detection, alert investigation  
+- **Security Analysis:** traffic analysis, log analysis, intrusion detection, alert investigation  
 
-**Security Concepts:** cryptographic hashing, encryption, secure communication protocols  
+- **Security Concepts:** cryptographic hashing, encryption, secure communication protocols  
 
-**Programming:** Python, C++, Java, SQL, C  
+- **Programming:** Python, C++, Java, SQL, C  
 
-**Data & ML:** Pandas, NumPy, Matplotlib, Seaborn, supervised & unsupervised learning, model evaluation  
+- **Data & ML:** Pandas, NumPy, Matplotlib, Seaborn, supervised & unsupervised learning, model evaluation  
 
-**DevOps & Tools:** Git, GitHub/GitLab CI, Docker, Kubernetes (exposure)
+- **DevOps & Tools:** Git, GitHub/GitLab CI, Docker, Kubernetes (exposure)
 
                     
 
