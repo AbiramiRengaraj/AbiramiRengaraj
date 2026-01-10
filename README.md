@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Abirami Rengaraj
 
-Master’s student in Computer Systems and Networks with strong foundations in networking and protocol design, complemented by hands-on experience in AI, cloud, and cybersecurity. Gained practical exposure through internships and thesis work, applying the latest technologies in machine learning, data analytics, and security. Driven by curiosity and continuous learning, I aim to build impactful solutions across software development, networking, data, AI, cloud, and security, bringing together core engineering skills with the latest technological advancements.
+Master’s student in Computer Systems and Cybersecurity with strong foundations in networking and protocol design, complemented by hands-on experience in AI, cloud, and cybersecurity. Gained practical exposure through internships and thesis work, applying the latest technologies in machine learning, data analytics, and security. Driven by curiosity and continuous learning, I aim to build impactful solutions across software development, networking, data, AI, cloud, and security, bringing together core engineering skills with the latest technological advancements.
 
 ---
 
